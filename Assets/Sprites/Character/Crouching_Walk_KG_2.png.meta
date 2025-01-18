@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 424be028b81d79440913d6249d526e0f
+guid: ea3cc9d314baf1d4fa135c5e6241f943
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8698305717160559983
-    second: 3_Cat_Jump-Sheet_0
+      213: 4634060315903573226
+    second: Crouching_Walk_KG_2_0
   - first:
-      213: -879127403827390100
-    second: 3_Cat_Jump-Sheet_1
+      213: -3854033634016458065
+    second: Crouching_Walk_KG_2_1
   - first:
-      213: -1717004097415697048
-    second: 3_Cat_Jump-Sheet_2
+      213: -4435574168489196917
+    second: Crouching_Walk_KG_2_2
   - first:
-      213: 7718173357589714328
-    second: 3_Cat_Jump-Sheet_3
+      213: 657644609709039264
+    second: Crouching_Walk_KG_2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3_Cat_Jump-Sheet_0
+      name: Crouching_Walk_KG_2_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 3
-        width: 13
-        height: 19
+        x: 18
+        y: 0
+        width: 61
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f65ca13d6f696b870800000000000000
-      internalID: 8698305717160559983
+      spriteID: aecba251e4d7f4040800000000000000
+      internalID: 4634060315903573226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3_Cat_Jump-Sheet_1
+      name: Crouching_Walk_KG_2_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 3
-        width: 13
-        height: 19
+        x: 118
+        y: 0
+        width: 61
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c699e86b846bcc3f0800000000000000
-      internalID: -879127403827390100
+      spriteID: faa8a0454d8b38ac0800000000000000
+      internalID: -3854033634016458065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3_Cat_Jump-Sheet_2
+      name: Crouching_Walk_KG_2_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 3
-        width: 12
-        height: 19
+        x: 218
+        y: 0
+        width: 61
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86da5a7ded9fb28e0800000000000000
-      internalID: -1717004097415697048
+      spriteID: b828d406bcca172c0800000000000000
+      internalID: -4435574168489196917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3_Cat_Jump-Sheet_3
+      name: Crouching_Walk_KG_2_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 3
-        width: 13
-        height: 19
+        x: 318
+        y: 0
+        width: 61
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 895d40ea6c57c1b60800000000000000
-      internalID: 7718173357589714328
+      spriteID: 0ae5826c94c602900800000000000000
+      internalID: 657644609709039264
       vertices: []
       indices: 
       edges: []
