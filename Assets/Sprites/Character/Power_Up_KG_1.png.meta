@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: f67a0ad03066d0c48a3885951c79530f
+guid: 5e47936dab00d1c46a71f5513dfc3b41
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2698658137309289751
-    second: 2_Cat_Run-Sheet_0
+      213: -1705845165525568588
+    second: Power_Up_KG_1_0
   - first:
-      213: 3347968482685306840
-    second: 2_Cat_Run-Sheet_1
+      213: 2251649960415473991
+    second: Power_Up_KG_1_1
   - first:
-      213: 3049066074964071776
-    second: 2_Cat_Run-Sheet_2
+      213: 5160003220789793810
+    second: Power_Up_KG_1_2
   - first:
-      213: -2980455036323118514
-    second: 2_Cat_Run-Sheet_3
+      213: -5192412923304827205
+    second: Power_Up_KG_1_3
   - first:
-      213: -5308005675055094261
-    second: 2_Cat_Run-Sheet_4
+      213: 7643923730074194245
+    second: Power_Up_KG_1_4
   - first:
-      213: -2695421780957910584
-    second: 2_Cat_Run-Sheet_5
+      213: -1752979326535911494
+    second: Power_Up_KG_1_5
   - first:
-      213: -3521131775601738278
-    second: 2_Cat_Run-Sheet_6
+      213: 597034012897054130
+    second: Power_Up_KG_1_6
   - first:
-      213: -848056126545069496
-    second: 2_Cat_Run-Sheet_7
+      213: 8887534436480639499
+    second: Power_Up_KG_1_7
   - first:
-      213: -5734806690515104126
-    second: 2_Cat_Run-Sheet_8
+      213: -7505918680653301381
+    second: Power_Up_KG_1_8
   - first:
-      213: -2746605651840009790
-    second: 2_Cat_Run-Sheet_9
+      213: -1109290666164257889
+    second: Power_Up_KG_1_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -127,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_0
+      name: Power_Up_KG_1_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 3
-        width: 18
-        height: 17
+        x: 20
+        y: 0
+        width: 51
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e26673e8b07c8ad0800000000000000
-      internalID: -2698658137309289751
+      spriteID: 4b3f7032cde9358e0800000000000000
+      internalID: -1705845165525568588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_1
+      name: Power_Up_KG_1_1
       rect:
         serializedVersion: 2
-        x: 39
-        y: 5
-        width: 19
-        height: 15
+        x: 113
+        y: 0
+        width: 58
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d749a1c89f567e20800000000000000
-      internalID: 3347968482685306840
+      spriteID: 741361195b77f3f10800000000000000
+      internalID: 2251649960415473991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_2
+      name: Power_Up_KG_1_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 4
-        width: 18
-        height: 15
+        x: 225
+        y: 0
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0659de6c075705a20800000000000000
-      internalID: 3049066074964071776
+      spriteID: 2141c0727930c9740800000000000000
+      internalID: 5160003220789793810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_3
+      name: Power_Up_KG_1_3
       rect:
         serializedVersion: 2
-        x: 103
-        y: 3
-        width: 18
-        height: 16
+        x: 335
+        y: 0
+        width: 36
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e42cfe28feb43a6d0800000000000000
-      internalID: -2980455036323118514
+      spriteID: bb6a443f4f7d0f7b0800000000000000
+      internalID: -5192412923304827205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_4
+      name: Power_Up_KG_1_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 3
-        width: 19
-        height: 16
+        x: 434
+        y: 0
+        width: 36
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b06659826fc2656b0800000000000000
-      internalID: -5308005675055094261
+      spriteID: 541504d122ca41a60800000000000000
+      internalID: 7643923730074194245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_5
+      name: Power_Up_KG_1_5
       rect:
         serializedVersion: 2
-        x: 167
-        y: 3
-        width: 18
-        height: 17
+        x: 532
+        y: 0
+        width: 38
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c92722db20f79ad0800000000000000
-      internalID: -2695421780957910584
+      spriteID: ab73937179a2ca7e0800000000000000
+      internalID: -1752979326535911494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_6
+      name: Power_Up_KG_1_6
       rect:
         serializedVersion: 2
-        x: 199
-        y: 5
-        width: 19
-        height: 15
+        x: 627
+        y: 0
+        width: 41
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: addfaeb4e4d622fc0800000000000000
-      internalID: -3521131775601738278
+      spriteID: 2bd0e818547194800800000000000000
+      internalID: 597034012897054130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_7
+      name: Power_Up_KG_1_7
       rect:
         serializedVersion: 2
-        x: 232
-        y: 4
-        width: 18
-        height: 15
+        x: 731
+        y: 0
+        width: 38
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84affa332791b34f0800000000000000
-      internalID: -848056126545069496
+      spriteID: b02ea775b7dd65b70800000000000000
+      internalID: 8887534436480639499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_8
+      name: Power_Up_KG_1_8
       rect:
         serializedVersion: 2
-        x: 263
-        y: 3
-        width: 18
-        height: 16
+        x: 834
+        y: 0
+        width: 36
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,20 +318,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28e405403bfd960b0800000000000000
-      internalID: -5734806690515104126
+      spriteID: b79f0be5abe95d790800000000000000
+      internalID: -7505918680653301381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_Cat_Run-Sheet_9
+      name: Power_Up_KG_1_9
       rect:
         serializedVersion: 2
-        x: 293
-        y: 3
-        width: 19
-        height: 16
+        x: 913
+        y: 0
+        width: 57
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,8 +340,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c9fef736b812e9d0800000000000000
-      internalID: -2746605651840009790
+      spriteID: f9b7f9234020b90f0800000000000000
+      internalID: -1109290666164257889
       vertices: []
       indices: 
       edges: []
