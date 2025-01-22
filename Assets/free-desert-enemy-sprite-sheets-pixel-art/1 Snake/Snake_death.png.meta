@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snake_death_0: 5954747681264013147
+      Snake_death_1: -2917876498990595081
+      Snake_death_2: 8107309898675741164
+      Snake_death_3: 7512920968933466513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

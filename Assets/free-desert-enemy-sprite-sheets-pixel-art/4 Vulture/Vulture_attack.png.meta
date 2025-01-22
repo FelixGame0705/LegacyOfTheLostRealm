@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vulture_attack_0: 4339957515555348290
+      Vulture_attack_1: 7028920903928918354
+      Vulture_attack_2: 2912482889885836481
+      Vulture_attack_3: -332320564399054184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

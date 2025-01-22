@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_idle_0: -2167878223180609541
+      Mummy_idle_1: -7860956130040113990
+      Mummy_idle_2: 2818871451065359792
+      Mummy_idle_3: -4507263900313198035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

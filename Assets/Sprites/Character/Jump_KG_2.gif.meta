@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump_KG_2_0: -7134453638355003615
+      Jump_KG_2_1: 7803281734061422591
+      Jump_KG_2_2: 8458637065299637371
+      Jump_KG_2_3: -8752113897201174074
+      Jump_KG_2_4: 828671630536272562
+      Jump_KG_2_5: 6587891932400062364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
