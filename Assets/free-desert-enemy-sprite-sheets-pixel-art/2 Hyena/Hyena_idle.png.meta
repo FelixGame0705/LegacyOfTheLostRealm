@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hyena_idle_0: 1401160697380777023
+      Hyena_idle_1: -7614874780779479536
+      Hyena_idle_2: 6551609900776630453
+      Hyena_idle_3: -5850674595801997420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

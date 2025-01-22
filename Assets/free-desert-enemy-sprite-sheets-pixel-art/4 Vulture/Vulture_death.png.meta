@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vulture_death_0: -5113302114538318469
+      Vulture_death_1: -4013377776432828172
+      Vulture_death_2: 4244167556404964806
+      Vulture_death_3: 8920206429180137630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

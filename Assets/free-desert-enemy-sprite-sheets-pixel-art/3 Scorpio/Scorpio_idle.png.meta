@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Scorpio_idle_0: -6493989785161822916
+      Scorpio_idle_1: 8035097060380119223
+      Scorpio_idle_2: 2119505984166483719
+      Scorpio_idle_3: -669078196644575352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
