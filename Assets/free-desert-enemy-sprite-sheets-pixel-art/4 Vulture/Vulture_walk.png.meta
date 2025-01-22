@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vulture_walk_0: 4123322262012410217
+      Vulture_walk_1: -2831252063017102830
+      Vulture_walk_2: 1478862803339095624
+      Vulture_walk_3: 9076652957402296877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

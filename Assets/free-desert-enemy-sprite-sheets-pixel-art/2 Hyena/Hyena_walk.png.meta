@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hyena_walk_0: 2471592659353179898
+      Hyena_walk_1: -2419008658184752302
+      Hyena_walk_2: 2507993390049796495
+      Hyena_walk_3: -956104591135857483
+      Hyena_walk_4: 2243268222033737985
+      Hyena_walk_5: 6630705575699186964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
