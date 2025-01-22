@@ -4,11 +4,15 @@
 TagManager:
   serializedVersion: 3
   tags:
+
   - apple
   - Diamond
   - Apple
   - Stone
   - Key
+  - Pushable
+  - Heal
+  - Enemy
   layers:
   - Default
   - TransparentFX
